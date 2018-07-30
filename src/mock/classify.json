@@ -1,0 +1,128 @@
+ [
+ 	{
+	"class":[
+		{"pic":"./static/img/classify01.png","tittle":"壁挂式空调","id":"1"},
+		{"pic":"./static/img/classify02.png","tittle":"立柜式空调","id":"1"},
+		{"pic":"./static/img/classify03.png","tittle":"中央空调","id":"1"},
+		{"pic":"./static/img/classify04.png","tittle":"移动式空调","id":"1"},
+		{"pic":"./static/img/classify04.png","tittle":"移动式空调","id":"1"},
+		{"pic":"./static/img/classify04.png","tittle":"移动式空调","id":"1"}
+		],
+	"good":[
+		{"pic":"./static/img/classify01-.jpg","tittle":"柜机大2匹 智能变频立柜空调 二级能效 冷暖空调 KFR-51LW/WYDA2@","price":"5999.00","id":"07"},
+		{"pic":"./static/img/classify02.jpg","tittle":"空调大2P 智能除湿 静音 定频冷暖 KFR-51LW/DY-YA400(D3)","price":"4399.00","id":"07"},
+		{"pic":"./static/img/classify03.jpg","tittle":"变频冷暖 大1.5匹 二级能效 KFR-35GW/WDHN8A2","price":"2999.00","id":"07"},
+		{"pic":"./static/img/classify04.jpg","tittle":"空调 大1.5匹 定频冷暖 阿里云智能 KFR-35GW/WCBD3@","price":"2299.00","id":"07"}
+	]
+  },
+  {
+	"class":[
+		{"pic":"./static/img/classify11.png","tittle":"单门冰箱","id":"2"},
+		{"pic":"./static/img/classify12.png","tittle":"双门冰箱","id":"2"},
+		{"pic":"./static/img/classify13.png","tittle":"多门冰箱","id":"2"}
+		],
+	"good":[
+		{"pic":"./static/img/classify11.jpg","tittle":"【大冷动力】535升冰箱 风冷无霜 手机遥控 对开门 BCD-535WKZM(E)","price":"2999.00","id":"04"},
+		{"pic":"./static/img/classify112.png","tittle":"Midea/美的冰箱 468升 十字对开门冰箱 风冷无霜 电脑控温 BCD-468WTPM(E)冰箱 ","price":"3999.00","id":"04"},
+		{"pic":"./static/img/classify13.jpg","tittle":"【新品推荐】美的（Midea） 318升多门冰箱风冷无霜智能变频BCD-318WTPZM(E)爵士棕","price":"2899.00","id":"04"},
+		{"pic":"./static/img/classify114.png","tittle":"Midea/美的三门风冷冰箱 215升 节能省电 铂金净味  BCD-215WTM(E)阳光米","price":"1799.00","id":"04"}
+	]
+  },
+  {
+	"class":[
+		{"pic":"./static/img/classify21.png","tittle":"滚筒洗衣机","id":"3"},
+		{"pic":"./static/img/classify22.png","tittle":"波轮洗衣机","id":"3"},
+		{"pic":"./static/img/classify23.png","tittle":"双缸洗衣机","id":"3"},
+		{"pic":"./static/img/classify24.png","tittle":"干洗衣机","id":"3"},
+		{"pic":"./static/img/classify25.png","tittle":"单脱机","id":"3"},
+		{"pic":"./static/img/classify26.png","tittle":"复试洗衣机","id":"3"}
+		],
+	"good":[
+		{"pic":"./static/img/classify21.jpg","tittle":"波轮洗衣机 6.5KG 8大程序 不锈钢内桶 MB65-1000H","price":"829.00","id":"05"},
+		{"pic":"./static/img/classify22.jpg","tittle":"波轮洗衣机 7.2KG 24小时预约 多种分类洗涤 MB72V31","price":"899.00","id":"05"},
+		{"pic":"./static/img/classify22.jpg","tittle":"波轮洗衣机 8KG 自清洗 24小时预约 MB80V31","price":"999.00","id":"05"},
+		{"pic":"./static/img/classify23.jpg","tittle":"波轮衣机 9KG 24小时预约 自清洗 MB90VN13","price":"1999.00","id":"05"}
+	]
+  },
+  {
+	"class":[
+		{"pic":"./static/img/classify31.png","tittle":"电饭煲","id":"4"},
+		{"pic":"./static/img/classify32.png","tittle":"电子炉","id":"4"},
+		{"pic":"./static/img/classify33.png","tittle":"微波炉","id":"4"},
+		{"pic":"./static/img/classify34.png","tittle":"电烤箱","id":"4"},
+		{"pic":"./static/img/classify35.png","tittle":"电炖锅","id":"4"},
+		{"pic":"./static/img/classify32.png","tittle":"电压力锅","id":"4"}
+		],
+	"good":[
+		{"pic":"./static/img/classify31.jpg","tittle":"电烤箱 智能菜单一键烘焙 T7-L325D","price":"379.00","id":"03"},
+		{"pic":"./static/img/classify32.jpg","tittle":"【Micca系列】电磁炉 魅彩恒匀火 彩色面板九档滑控火力调节 慕斯粉 C21-Micca702","price":"499.00","id":"03"},
+		{"pic":"./static/img/classify33.jpg","tittle":"【惊爆价499】电饭煲 4L 智能操控 IH大火力 钛金釜内胆 MB-FZ4000XM-B","price":"499.00","id":"03"},
+		{"pic":"./static/img/classify34.jpg","tittle":"电压力锅 5L IH快速沸腾 悬浮浓香阀 自动排气 WQH50C8","price":"599.00","id":"03"}
+	]
+  },
+  {
+	"class":[
+		{"pic":"./static/img/classify41.png","tittle":"吸油烟机","id":"5"},
+		{"pic":"./static/img/classify42.png","tittle":"消毒柜","id":"5"},
+		{"pic":"./static/img/classify43.png","tittle":"燃气灶","id":"5"},
+		{"pic":"./static/img/classify44.png","tittle":"烟灶套装","id":"5"},
+		{"pic":"./static/img/classify45.png","tittle":"洗碗机","id":"5"},
+		{"pic":"./static/img/classify46.png","tittle":"蒸汽炉","id":"5"}
+		],
+	"good":[
+		{"pic":"./static/img/classify41.jpg","tittle":"【蒸汽洗】烟灶套装 20m³劲吸 5KW猛火 MJ590R+Q590B","price":"4399.00","id":"06"},
+		{"pic":"./static/img/classify42.jpg","tittle":"【送煎锅】【蒸汽洗】烟灶套装 黑晶面板高颜值 DJ570R+Q360B","price":"3099.00","id":"06"},
+		{"pic":"./static/img/classify43.jpg","tittle":"洗碗机 免安装 29分钟超快洗 美的范M1-香槟金","price":"2399.00","id":"06"},
+		{"pic":"./static/img/classify44.jpg","tittle":"嵌入式蒸汽烤箱一体机  TQN34FBJ-SA","price":"4199.00","id":"06"}
+	]
+  },
+  {
+	"class":[
+		{"pic":"./static/img/classify51.png","tittle":"电风扇","id":"6"},
+		{"pic":"./static/img/classify52.png","tittle":"空调扇","id":"6"},
+		{"pic":"./static/img/classify53.png","tittle":"吸尘器","id":"6"},
+		{"pic":"./static/img/classify54.png","tittle":"扫地机器人","id":"6"},
+		{"pic":"./static/img/classify55.png","tittle":"电热水器","id":"6"},
+		{"pic":"./static/img/classify56.png","tittle":"电水壶","id":"6"}
+		],
+	"good":[
+		{"pic":"./static/img/classify51.jpg","tittle":"【下单送咖啡机】电水壶 60秒即热 6段控温 大小杯设计 一次只热一杯水 MK-HE3001","price":"699.00","id":"02"},
+		{"pic":"./static/img/classify52.jpg","tittle":"挂烫机 卧立两用 蒸汽大烫头YGD20D7","price":"359.00","id":"02"},
+		{"pic":"./static/img/classify53.jpg","tittle":"养生壶 1.5L容量 触控面板 9大功能 多段保温 淡粉 WGE1506c","price":"149.00","id":"02"},
+		{"pic":"./static/img/classify54.jpg","tittle":"吸尘器 无线手持 5款刷头 升级电池 壁挂充电  P3 Lady","price":"1299.00","id":"02"}
+	]
+  },
+  {
+	"class":[
+		{"pic":"./static/img/classify61.png","tittle":"燃气热水器","id":"7"},
+		{"pic":"./static/img/classify62.png","tittle":"电热水器","id":"7"},
+		{"pic":"./static/img/classify63.png","tittle":"空气能热水器","id":"7"},
+		{"pic":"./static/img/classify64.png","tittle":"净水机","id":"7"},
+		{"pic":"./static/img/classify65.png","tittle":"饮水机","id":"7"},
+		{"pic":"./static/img/classify66.png","tittle":"管线机","id":"7"}
+		],
+	"good":[
+		{"pic":"./static/img/classify61.jpg","tittle":"【恒温双变频】燃气热水器 14升智能随温感 触控 JSQ27-H6(T)","price":"1699.00","id":"02"},
+		{"pic":"./static/img/classify62.jpg","tittle":"【安全王】电热水器 60L出水断电 3000W双管速热 手机WiFi智控 F6030-K5(HE)","price":"1799.00","id":"02"},
+		{"pic":"./static/img/classify63.jpg","tittle":"饮水机 下置隐藏水桶 HEPA空滤 外置沸腾胆 YD1316S-X（冰热）","price":"1699.00","id":"02"},
+		{"pic":"./static/img/classify64.jpg","tittle":"【无罐双出水】净水机M75 五级RO反渗透  1:1节水 MRC1795A-75G","price":"1998.00","id":"02"}
+	]
+  },
+  {
+	"class":[
+		{"pic":"./static/img/classify71.png","tittle":"清洗服务","id":"8"},
+		{"pic":"./static/img/classify72.png","tittle":"五谷杂粮","id":"8"},
+		{"pic":"./static/img/classify73.png","tittle":"插座","id":"8"},
+		{"pic":"./static/img/classify74.png","tittle":"浴霸","id":"8"},
+		{"pic":"./static/img/classify75.png","tittle":"智能门锁","id":"8"},
+		{"pic":"./static/img/classify76.png","tittle":"健康秤","id":"8"}
+		],
+	"good":[
+		{"pic":"./static/img/classify71.jpg","tittle":"【不限品牌】清洗服务 空调挂机深度清洗上门服务","price":"89.00","id":"02"},
+		{"pic":"./static/img/classify72.jpg","tittle":"【不限品牌】清洗服务 空调2台挂机+1台柜机清洗上门服务","price":"268.00","id":"02"},
+		{"pic":"./static/img/classify73.jpg","tittle":"慧光 LED充电台灯 MTD3.5-M/K-02","price":"85.00","id":"02"},
+		{"pic":"./static/img/classify74.jpg","tittle":"浴霸 双擎导风 小夜灯功能 ZS26A","price":"749.00","id":"02"}
+	]
+  }
+]
+

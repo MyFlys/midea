@@ -1,0 +1,540 @@
+{
+  "date":[
+    {"title":"空调","id":"1","son":[
+      {
+        "id":"11",
+        "img": "./static/img/l-hglk1.jpg",
+        "miaoshu": "空调大2P 智能除湿 静音 定频冷暖  KFR-51LW/DY-YA400(D3)",
+        "chanshu": "全维立体送风，强劲制冷，电辅助加热，冷触媒滤网",
+        "youhui": [
+          "热卖"
+        ],
+        "zengpin": "",
+        "zengpins":"display:none",
+        "price": "￥4499.00",
+        "yuanprice": "",
+        "pinglun": "评论129条"
+      },
+      {
+        "id":"12",
+        "img": "./static/img/l-hglk2.jpg",
+        "miaoshu": "空调 大1匹挂机 定频冷暖  阿里云智能 KFR-26GW/WCBD3@",
+        "chanshu": "双重健康滤网；智能干燥清洁；智能除湿；智能云控、静音",
+        "youhui": [
+          "热卖"
+        ],
+        "zengpin": "",
+        "zengpins":"display:none",
+        "price": "￥1999.00",
+        "yuanprice": "",
+        "pinglun": "该地区无货"
+      },
+      {
+        "id":"13",
+        "img": "./static/img/l-hglk3.jpg",
+        "miaoshu": "空调 大1.5匹 定频冷暖 阿里云智能 KFR-35GW/WCBD3@",
+        "chanshu": "双重健康滤网；智能干燥清洁；智能除湿；智能云控、静音",
+        "youhui": [
+          "热卖"
+        ],
+        "zengpin": "",
+        "zengpins":"display:none",
+        "price": "￥2299.00",
+        "yuanprice": "",
+        "pinglun": "该地区无货"
+      },
+      {
+        "id":"14","img":"./static/img/l-hgl6.jpg","miaoshu":"空调 大1匹挂机 定频冷暖  阿里云智能 KFR-26GW/WCBD3@",                "chanshu":"双重健康滤网；智能干燥清洁；智能除湿；智能云控、静音", "youhui": ["热卖"], "zengpin": "",        "zengpins":"display:none", "price":"￥1999.00","yuanprice":"","pinglun":"评论3038条"},
+      {
+        "id":"15",
+        "img": "./static/img/l-hglk4.jpg",
+        "miaoshu": "空调大3P 智能除湿静音 定速冷暖 KFR-72LW/DY-YA400(D3)",
+        "chanshu": "全维立体送风，强劲制冷，电辅助加热，冷触媒滤网220V",
+        "youhui": [
+          "热卖"
+        ],
+        "zengpin": "",
+        "zengpins":"display:none",
+        "price": "￥5499.00",
+        "yuanprice": "",
+        "pinglun": "评论161条"
+      },
+      {
+        "id":"16",
+        "img": "./static/img/l-hglk1.jpg",
+        "miaoshu": "空调大2P 智能除湿 静音 定频冷暖  KFR-51LW/DY-YA400(D3)",
+        "chanshu": "全维立体送风，强劲制冷，电辅助加热，冷触媒滤网",
+        "youhui": [
+          "热卖"
+        ],
+        "zengpin": "",
+        "zengpins":"display:none",
+        "price": "￥4499.00",
+        "yuanprice": "",
+        "pinglun": "评论129条"
+      },
+      {
+        "id":"17",
+        "img": "./static/img/l-hglk2.jpg",
+        "miaoshu": "空调 大1匹挂机 定频冷暖  阿里云智能 KFR-26GW/WCBD3@",
+        "chanshu": "双重健康滤网；智能干燥清洁；智能除湿；智能云控、静音",
+        "youhui": [
+          "热卖"
+        ],
+        "zengpin": "",
+        "zengpins":"display:none",
+        "price": "￥1999.00",
+        "yuanprice": "",
+        "pinglun": "该地区无货"
+      }
+    ]},
+    {"title":"冰箱","id":"2","son":[
+      {
+        "id":"21","img":"./static/img/l-hglb1.jpg","miaoshu":"【大冷动力】535升冰箱 风冷无霜 手机遥控 对开门 BCD-535WKZM(E)",     "chanshu":"炫彩外观；纤薄智能；风冷无霜对开门冰箱",                                                "youhui": ["限时特惠", "换购","热卖"],        "zengpins":"display:none", "zengpin": "","price":"￥3099.00","yuanprice":"￥3299.00","pinglun":"评论787条"},
+      {
+        "id": "22",
+        "img": "./static/img/l-hglb2.jpg",
+        "miaoshu": "Midea/美的冷柜 96升 冷藏冷冻随时切换 低噪节能  BD/BC-96KM(E)",
+        "chanshu": "节能省电，悦动花纹，冷冻冷藏随心转换",
+        "youhui": [
+          "限时特惠"
+        ],
+        "zengpin": "",
+        "zengpins": "display:none",
+        "price": "￥799.00",
+        "yuanprice": "",
+        "pinglun": "评论262条"
+      },
+      {
+        "id": "23",
+        "img": "./static/img/l-hglb3.jpg",
+        "miaoshu": "【新品推荐】美的（Midea） 对开门冰箱 风冷无霜电冰箱 双开门 BCD-520WKM(E)阳光米",
+        "chanshu": "时尚外观；风冷无霜；安全认证；节能静音",
+        "youhui": [
+          "限时特惠"
+        ],
+        "zengpin": "新品",
+        "zengpins": "",
+        "price": "￥2959.00",
+        "yuanprice": "￥3099.00",
+        "pinglun": "评论298条"
+      },
+      {
+        "id":"24","img":"./static/img/l-hglb1.jpg","miaoshu":"【大冷动力】535升冰箱 风冷无霜 手机遥控 对开门 BCD-535WKZM(E)",     "chanshu":"炫彩外观；纤薄智能；风冷无霜对开门冰箱",                                                "youhui": ["限时特惠", "换购","热卖"],        "zengpins":"display:none", "zengpin": "","price":"￥3099.00","yuanprice":"￥3299.00","pinglun":"评论787条"},
+      {
+        "id": "25",
+        "img": "./static/img/l-hglb2.jpg",
+        "miaoshu": "Midea/美的冷柜 96升 冷藏冷冻随时切换 低噪节能  BD/BC-96KM(E)",
+        "chanshu": "节能省电，悦动花纹，冷冻冷藏随心转换",
+        "youhui": [
+          "限时特惠"
+        ],
+        "zengpin": "",
+        "zengpins": "display:none",
+        "price": "￥799.00",
+        "yuanprice": "",
+        "pinglun": "评论262条"
+      },
+      {
+        "id": "26",
+        "img": "./static/img/l-hglb3.jpg",
+        "miaoshu": "【新品推荐】美的（Midea） 对开门冰箱 风冷无霜电冰箱 双开门 BCD-520WKM(E)阳光米",
+        "chanshu": "时尚外观；风冷无霜；安全认证；节能静音",
+        "youhui": [
+          "限时特惠"
+        ],
+        "zengpin": "新品",
+        "zengpins": "",
+        "price": "￥2959.00",
+        "yuanprice": "￥3099.00",
+        "pinglun": "评论298条"
+      }
+
+    ]},
+    {"title":"洗衣机","id":"3","son":[
+      {
+        "id": "31",
+        "img": "./static/img/l-hglx1.jpg",
+        "miaoshu": "滚筒洗衣机 7KG变频 除菌洗 智能操控 MG70V30WDX",
+        "chanshu": "触摸屏设计，操作简单；M-smart智能家居系统，WIFI控制；变频电机，节能静音；除菌洗；I-time智能时间控制；喷淋洗涤，下排水设计；APP仅支持美居",
+        "youhui": [
+          "开门红"
+        ],
+        "zengpin": "新品",
+        "zengpins": "",
+        "price": "￥1599.00",
+        "yuanprice": "￥1699.00",
+        "pinglun": "评论787条"
+      },
+      {
+        "id": "32",
+        "img": "./static/img/l-hglx2.jpg",
+        "miaoshu": "波轮洗衣机 7.2KG 24小时预约 多种分类洗涤 MB72V31",
+        "chanshu": "自清洗 ，洗净内外桶，杜绝二次污染自编程设计，自由调节24小时预约，有效避免用水用电高峰剩余时间显示，洗涤进程一目了然多种分类洗涤，满足各种洗衣需求",
+        "youhui": [
+          "开门红"
+        ],
+        "zengpin": "新品",
+        "zengpins": "",
+        "price": "￥899.00",
+        "yuanprice": "￥999.00",
+        "pinglun": "评论787条"
+      },
+      {
+        "id": "33",
+        "img": "./static/img/l-hglx1.jpg",
+        "miaoshu": "滚筒洗衣机 7KG变频 除菌洗 智能操控 MG70V30WDX",
+        "chanshu": "触摸屏设计，操作简单；M-smart智能家居系统，WIFI控制；变频电机，节能静音；除菌洗；I-time智能时间控制；喷淋洗涤，下排水设计；APP仅支持美居",
+        "youhui": [
+          "开门红"
+        ],
+        "zengpin": "新品",
+        "zengpins": "",
+        "price": "￥1599.00",
+        "yuanprice": "￥1699.00",
+        "pinglun": "评论787条"
+      },
+      {
+        "id": "34",
+        "img": "./static/img/l-hglx2.jpg",
+        "miaoshu": "波轮洗衣机 7.2KG 24小时预约 多种分类洗涤 MB72V31",
+        "chanshu": "自清洗 ，洗净内外桶，杜绝二次污染自编程设计，自由调节24小时预约，有效避免用水用电高峰剩余时间显示，洗涤进程一目了然多种分类洗涤，满足各种洗衣需求",
+        "youhui": [
+          "开门红"
+        ],
+        "zengpin": "新品",
+        "zengpins": "",
+        "price": "￥899.00",
+        "yuanprice": "￥999.00",
+        "pinglun": "评论787条"
+      },
+      {
+        "id": "35",
+        "img": "./static/img/l-hglx1.jpg",
+        "miaoshu": "滚筒洗衣机 7KG变频 除菌洗 智能操控 MG70V30WDX",
+        "chanshu": "触摸屏设计，操作简单；M-smart智能家居系统，WIFI控制；变频电机，节能静音；除菌洗；I-time智能时间控制；喷淋洗涤，下排水设计；APP仅支持美居",
+        "youhui": [
+          "开门红"
+        ],
+        "zengpin": "新品",
+        "zengpins": "",
+        "price": "￥1599.00",
+        "yuanprice": "￥1699.00",
+        "pinglun": "评论787条"
+      },
+      {
+        "id": "36",
+        "img": "./static/img/l-hglx2.jpg",
+        "miaoshu": "波轮洗衣机 7.2KG 24小时预约 多种分类洗涤 MB72V31",
+        "chanshu": "自清洗 ，洗净内外桶，杜绝二次污染自编程设计，自由调节24小时预约，有效避免用水用电高峰剩余时间显示，洗涤进程一目了然多种分类洗涤，满足各种洗衣需求",
+        "youhui": [
+          "开门红"
+        ],
+        "zengpin": "新品",
+        "zengpins": "",
+        "price": "￥899.00",
+        "yuanprice": "￥999.00",
+        "pinglun": "评论787条"
+      }
+    ]},
+    {"title":"厨房小电器","id":"4","son":[
+      {
+        "id":"41","img":"./static/img/l-hgl7.jpg","miaoshu":"面包机 智能独立双撒 360°立体烘烤 达人烘焙功能 MM-TSC2011",          "chanshu":"甜味面包；主食面包；快速面包；儿童面包；咸味面包；无油面包；果蔬面包；低糖面包；杂粮面包；全麦面包；和风面包；大米面包；巧克力；糖渍水果；糯米年糕；八宝米粥；果酱制作；酸奶制作；米酒发酵；蛋糕制作；自动和面；发面面团；自制肉松；自助烘烤", "youhui": ["限时特惠", "满赠"],        "zengpins":"display:none", "zengpin": "","price":"￥499.00","yuanprice":"￥549.00","pinglun":"评论108条"},
+      {
+        "id":"42","img":"./static/img/l-hgl8.jpg","miaoshu":"电水壶 1.7L 高绷硅玻璃 可视化设计 急速沸腾 MK-GJ1702",               "chanshu":"高硼玻璃壶身，烧水可视；无塑料与水接触，全安全烧水；全景开盖，清洗无忧", "youhui": ["限时特惠"], "zengpin": "新品","price":"￥129.00","yuanprice":"￥159.00","pinglun":"评论225条"},
+      {
+        "id": "43",
+        "img": "./static/img/l-hgl2.jpg",
+        "miaoshu": "【惊爆价499】电饭煲 4L 智能操控 IH大火力 钛金釜内胆 MB-FZ4000XM-B",
+        "chanshu": "LED显示；2.0mm钛金釜内胆；IMD面板；可拆洗盖板；通电后、便捷一键通显示；远程物联操控",
+        "youhui": [
+          "限时特惠",
+          "满赠"
+        ],
+        "zengpin": "",
+        "zengpins": "display:none",
+        "price": "￥499.00",
+        "yuanprice": "￥700.00",
+        "pinglun": "评论262条"
+      },
+      {
+        "id": "44",
+        "img": "./static/img/l-hgl4.jpg",
+        "miaoshu": "电压力锅 5L双胆 7段调压 可开盖煮 宽锅沿便清洗 MY-QC50B12",
+        "chanshu": "1.美食汇，天天吃新菜；2.特色开盖煮，火锅面条样样行；3.乘积式菜单，多样化烹饪；4.智能安全锁，安全更舒心；5.无锅沿设计",
+        "youhui": [
+          "限时特惠",
+          "满赠"
+        ],
+        "zengpin": "",
+        "zengpins": "display:none",
+        "price": "￥359.00",
+        "yuanprice": "￥399.00",
+        "pinglun": "评论298条"
+      },
+      {
+        "id":"45","img":"./static/img/l-hgl10.jpg","miaoshu":"【惊爆价499】电饭煲 4L 智能操控 IH大火力 钛金釜内胆 MB-FZ4000XM-B","chanshu":"LED显示；2.0mm钛金釜内胆；IMD面板；可拆洗盖板；通电后、便捷一键通显示；远程物联操控", "youhui": ["限时特惠", "满赠"],        "zengpins":"display:none", "zengpin": "",     "price":"￥499.00","yuanprice":"￥700.00", "pinglun":"评论262条"}
+
+    ]},
+    {"title":"厨房大电器","id":"5","son":[
+      {
+        "id": "51",
+        "img": "./static/img/l-hgl9.jpg",
+        "miaoshu": "Power破壁机 冷热双杯 智能加热 可预约 MJ-Power701",
+        "chanshu": "大马力全铜线电机；德国6叶破壁锯齿刀；360°加热系统；冷热双杯；智能预约",
+        "youhui": [
+          "限时特惠",
+          "满赠"
+        ],
+        "zengpins": "display:none",
+        "zengpin": "新品",
+        "price": "￥999.00",
+        "yuanprice": "￥1500.00",
+        "pinglun": "评论19条"
+      },
+      {
+        "id": "52",
+        "img": "./static/img/l-hgl10.jpg",
+        "miaoshu": "【惊爆价499】电饭煲 4L 智能操控 IH大火力 钛金釜内胆 MB-FZ4000XM-B",
+        "chanshu": "LED显示；2.0mm钛金釜内胆；IMD面板；可拆洗盖板；通电后、便捷一键通显示；远程物联操控",
+        "youhui": [
+          "限时特惠",
+          "满赠"
+        ],
+        "zengpins": "display:none",
+        "zengpin": "",
+        "price": "￥499.00",
+        "yuanprice": "￥700.00",
+        "pinglun": "评论262条"
+      },
+      {
+        "id":"53","img":"./static/img/l-hgl7.jpg","miaoshu":"面包机 智能独立双撒 360°立体烘烤 达人烘焙功能 MM-TSC2011",          "chanshu":"甜味面包；主食面包；快速面包；儿童面包；咸味面包；无油面包；果蔬面包；低糖面包；杂粮面包；全麦面包；和风面包；大米面包；巧克力；糖渍水果；糯米年糕；八宝米粥；果酱制作；酸奶制作；米酒发酵；蛋糕制作；自动和面；发面面团；自制肉松；自助烘烤", "youhui": ["限时特惠", "满赠"],        "zengpins":"display:none", "zengpin": "","price":"￥499.00","yuanprice":"￥549.00","pinglun":"评论108条"},
+      {
+        "id":"54","img":"./static/img/l-hgl8.jpg","miaoshu":"电水壶 1.7L 高绷硅玻璃 可视化设计 急速沸腾 MK-GJ1702",               "chanshu":"高硼玻璃壶身，烧水可视；无塑料与水接触，全安全烧水；全景开盖，清洗无忧", "youhui": ["限时特惠"], "zengpin": "新品","price":"￥129.00","yuanprice":"￥159.00","pinglun":"评论225条"},
+      {
+        "id": "55",
+        "img": "./static/img/l-hgl2.jpg",
+        "miaoshu": "【惊爆价499】电饭煲 4L 智能操控 IH大火力 钛金釜内胆 MB-FZ4000XM-B",
+        "chanshu": "LED显示；2.0mm钛金釜内胆；IMD面板；可拆洗盖板；通电后、便捷一键通显示；远程物联操控",
+        "youhui": [
+          "限时特惠",
+          "满赠"
+        ],
+        "zengpin": "",
+        "zengpins": "display:none",
+        "price": "￥499.00",
+        "yuanprice": "￥700.00",
+        "pinglun": "评论262条"
+      },
+      {
+        "id": "56",
+        "img": "./static/img/l-hgl4.jpg",
+        "miaoshu": "电压力锅 5L双胆 7段调压 可开盖煮 宽锅沿便清洗 MY-QC50B12",
+        "chanshu": "1.美食汇，天天吃新菜；2.特色开盖煮，火锅面条样样行；3.乘积式菜单，多样化烹饪；4.智能安全锁，安全更舒心；5.无锅沿设计",
+        "youhui": [
+          "限时特惠",
+          "满赠"
+        ],
+        "zengpin": "",
+        "zengpins": "display:none",
+        "price": "￥359.00",
+        "yuanprice": "￥399.00",
+        "pinglun": "评论298条"
+      },
+      {
+        "id":"57","img":"./static/img/l-hgl10.jpg","miaoshu":"【惊爆价499】电饭煲 4L 智能操控 IH大火力 钛金釜内胆 MB-FZ4000XM-B","chanshu":"LED显示；2.0mm钛金釜内胆；IMD面板；可拆洗盖板；通电后、便捷一键通显示；远程物联操控", "youhui": ["限时特惠", "满赠"],        "zengpins":"display:none", "zengpin": "",     "price":"￥499.00","yuanprice":"￥700.00", "pinglun":"评论262条"}
+    ]},
+    {"title":"生活家电","id":"6","son":[
+      {
+        "id": "61",
+        "img": "./static/img/l-hgl11.jpg",
+        "miaoshu": "电压力锅 12大功能 七档调温 5L加厚内胆 MY-QC50A5",
+        "chanshu": "一体化大面板，10大常规功能，4大特色功能，双智能安全检测，连体可立锅盖，一键排气",
+        "youhui": [
+          "限时特惠"
+        ],
+        "zengpins": "display:none",
+        "zengpin": "",
+        "price": "￥239.00",
+        "yuanprice": "299.00",
+        "pinglun": "评论497条"
+      },
+      {
+        "id": "62",
+        "img": "./static/img/l-hgl12.jpg",
+        "miaoshu": "电压力锅 5L双胆 7段调压 可开盖煮 宽锅沿便清洗 MY-QC50B12",
+        "chanshu": "1.美食汇，天天吃新菜；2.特色开盖煮，火锅面条样样行；3.乘积式菜单，多样化烹饪；4.智能安全锁，安全更舒心；5.无锅沿设计",
+        "youhui": [
+          "限时特惠",
+          "满赠"
+        ],
+        "zengpins": "display:none",
+        "zengpin": "",
+        "price": "￥359.00",
+        "yuanprice": "￥399.00",
+        "pinglun": "评论298条"
+      },
+      {
+        "id": "63",
+        "img": "./static/img/l-hgls3.jpg",
+        "miaoshu": "【多段控温】电水壶 1.5L 智能手柄控温 时尚外观 双层防烫 MK-HE1506",
+        "chanshu": "45/60/70/85 4段控温保温；Strix温控器，准确控温；净化除氯",
+        "youhui": [
+          "开门红",
+          "满赠"
+        ],
+        "zengpins": "display:none",
+        "zengpin": "",
+        "price": "￥219.00",
+        "yuanprice": "￥259.00",
+        "pinglun": "评论298条"
+      },
+      {
+        "id": "64",
+        "img": "./static/img/l-hgls4.jpg",
+        "miaoshu": "电风扇 家用五叶静音落地扇 八档风速 无线遥控SAB40BR",
+        "chanshu": "8档风速、无风类8小时定时关机记忆30S息屏",
+        "youhui": [
+          "开门红"
+        ],
+        "zengpins": "",
+        "zengpin": "新品",
+        "price": "￥239.00",
+        "yuanprice": "￥299.00",
+        "pinglun": "评论298条"
+      },
+      {
+        "id": "65",
+        "img": "./static/img/l-hgl12.jpg",
+        "miaoshu": "电压力锅 5L双胆 7段调压 可开盖煮 宽锅沿便清洗 MY-QC50B12",
+        "chanshu": "1.美食汇，天天吃新菜；2.特色开盖煮，火锅面条样样行；3.乘积式菜单，多样化烹饪；4.智能安全锁，安全更舒心；5.无锅沿设计",
+        "youhui": [
+          "限时特惠",
+          "满赠"
+        ],
+        "zengpins": "display:none",
+        "zengpin": "",
+        "price": "￥359.00",
+        "yuanprice": "￥399.00",
+        "pinglun": "评论298条"
+      },
+      {
+        "id": "66",
+        "img": "./static/img/l-hgls3.jpg",
+        "miaoshu": "【多段控温】电水壶 1.5L 智能手柄控温 时尚外观 双层防烫 MK-HE1506",
+        "chanshu": "45/60/70/85 4段控温保温；Strix温控器，准确控温；净化除氯",
+        "youhui": [
+          "开门红",
+          "满赠"
+        ],
+        "zengpins": "display:none",
+        "zengpin": "",
+        "price": "￥219.00",
+        "yuanprice": "￥259.00",
+        "pinglun": "评论298条"
+      }
+    ]},
+    {"title":"热水器","id":"7","son":[
+      {
+        "id": "71",
+        "img": "./static/img/l-hglr1.jpg",
+        "miaoshu": "【无罐双出水】净水机M75 五级RO反渗透  1:1节水 MRC1795A-75G",
+        "chanshu": "无罐一体机；75加仑；1:1废水；健康用材；复合升级滤芯；智能防漏芯片；双出水设计；自动清洗功能",
+        "youhui": [
+          "开门红",
+          "满赠",
+          "热卖"
+        ],
+        "zengpins": "display:none",
+        "zengpin": "",
+        "price": "￥1999.00",
+        "yuanprice": "￥2099.00",
+        "pinglun": "评论787条"
+      },
+      {
+        "id": "72",
+        "img": "./static/img/l-hglr2.jpg",
+        "miaoshu": "【变频恒温】燃气热水器 12升金属拉丝面板 一厨两卫多路供水 JSQ22-12HWA（天然气)",
+        "chanshu": "恒温，停水温升≤5℃，机械防冻",
+        "youhui": [
+          "开门红"
+        ],
+        "zengpins": "display:none",
+        "zengpin": "",
+        "price": "￥1099.00",
+        "yuanprice": "￥1299.00",
+        "pinglun": "评论338条"
+      },
+      {
+        "id": "73",
+        "img": "./static/img/l-hglr1.jpg",
+        "miaoshu": "【无罐双出水】净水机M75 五级RO反渗透  1:1节水 MRC1795A-75G",
+        "chanshu": "无罐一体机；75加仑；1:1废水；健康用材；复合升级滤芯；智能防漏芯片；双出水设计；自动清洗功能",
+        "youhui": [
+          "开门红",
+          "满赠",
+          "热卖"
+        ],
+        "zengpins": "display:none",
+        "zengpin": "",
+        "price": "￥1999.00",
+        "yuanprice": "￥2099.00",
+        "pinglun": "评论787条"
+      },
+      {
+        "id": "74",
+        "img": "./static/img/l-hglr2.jpg",
+        "miaoshu": "【变频恒温】燃气热水器 12升金属拉丝面板 一厨两卫多路供水 JSQ22-12HWA（天然气)",
+        "chanshu": "恒温，停水温升≤5℃，机械防冻",
+        "youhui": [
+          "开门红"
+        ],
+        "zengpins": "display:none",
+        "zengpin": "",
+        "price": "￥1099.00",
+        "yuanprice": "￥1299.00",
+        "pinglun": "评论338条"
+      },
+      {
+        "id": "75",
+        "img": "./static/img/l-hglr1.jpg",
+        "miaoshu": "【无罐双出水】净水机M75 五级RO反渗透  1:1节水 MRC1795A-75G",
+        "chanshu": "无罐一体机；75加仑；1:1废水；健康用材；复合升级滤芯；智能防漏芯片；双出水设计；自动清洗功能",
+        "youhui": [
+          "开门红",
+          "满赠",
+          "热卖"
+        ],
+        "zengpins": "display:none",
+        "zengpin": "",
+        "price": "￥1999.00",
+        "yuanprice": "￥2099.00",
+        "pinglun": "评论787条"
+      },
+      {
+        "id": "76",
+        "img": "./static/img/l-hglr2.jpg",
+        "miaoshu": "【变频恒温】燃气热水器 12升金属拉丝面板 一厨两卫多路供水 JSQ22-12HWA（天然气)",
+        "chanshu": "恒温，停水温升≤5℃，机械防冻",
+        "youhui": [
+          "开门红"
+        ],
+        "zengpins": "display:none",
+        "zengpin": "",
+        "price": "￥1099.00",
+        "yuanprice": "￥1299.00",
+        "pinglun": "评论338条"
+      }
+    ]},
+    {"title":"周边及配件","id":"8","son":[
+      {"id":"81","img":"./static/img/l-hgl15.jpg","miaoshu":"面包机 智能独立双撒 360°立体烘烤 达人烘焙功能 MM-TSC2011",          "chanshu":"甜味面包；主食面包；快速面包；儿童面包；咸味面包；无油面包；果蔬面包；低糖面包；杂粮面包；全麦面包；和风面包；大米面包；巧克力；糖渍水果；糯米年糕；八宝米粥；果酱制作；酸奶制作；米酒发酵；蛋糕制作；自动和面；发面面团；自制肉松；自助烘烤", "youhui": ["限时特惠", "满赠"],         "zengpins":"display:none", "zengpin": "","price":"￥499.00","yuanprice":"￥549.00","pinglun":"评论108条"},
+      {"id":"82","img":"./static/img/l-hgl16.jpg","miaoshu":"电水壶 1.7L 高绷硅玻璃 可视化设计 急速沸腾 MK-GJ1702",               "chanshu":"高硼玻璃壶身，烧水可视；无塑料与水接触，全安全烧水；全景开盖，清洗无忧", "youhui": ["限时特惠"],         "zengpins":"display:none", "zengpin": "新品","price":"￥129.00","yuanprice":"￥159.00","pinglun":"评论225条"},
+      {"id":"83","img":"./static/img/l-hgl15.jpg","miaoshu":"面包机 智能独立双撒 360°立体烘烤 达人烘焙功能 MM-TSC2011",          "chanshu":"甜味面包；主食面包；快速面包；儿童面包；咸味面包；无油面包；果蔬面包；低糖面包；杂粮面包；全麦面包；和风面包；大米面包；巧克力；糖渍水果；糯米年糕；八宝米粥；果酱制作；酸奶制作；米酒发酵；蛋糕制作；自动和面；发面面团；自制肉松；自助烘烤", "youhui": ["限时特惠", "满赠"],         "zengpins":"display:none", "zengpin": "","price":"￥499.00","yuanprice":"￥549.00","pinglun":"评论108条"},
+      {"id":"84","img":"./static/img/l-hgl16.jpg","miaoshu":"电水壶 1.7L 高绷硅玻璃 可视化设计 急速沸腾 MK-GJ1702",               "chanshu":"高硼玻璃壶身，烧水可视；无塑料与水接触，全安全烧水；全景开盖，清洗无忧", "youhui": ["限时特惠"],         "zengpins":"display:none", "zengpin": "新品","price":"￥129.00","yuanprice":"￥159.00","pinglun":"评论225条"},
+      {"id":"85","img":"./static/img/l-hgl15.jpg","miaoshu":"面包机 智能独立双撒 360°立体烘烤 达人烘焙功能 MM-TSC2011",          "chanshu":"甜味面包；主食面包；快速面包；儿童面包；咸味面包；无油面包；果蔬面包；低糖面包；杂粮面包；全麦面包；和风面包；大米面包；巧克力；糖渍水果；糯米年糕；八宝米粥；果酱制作；酸奶制作；米酒发酵；蛋糕制作；自动和面；发面面团；自制肉松；自助烘烤", "youhui": ["限时特惠", "满赠"],         "zengpins":"display:none", "zengpin": "","price":"￥499.00","yuanprice":"￥549.00","pinglun":"评论108条"},
+      {"id":"86","img":"./static/img/l-hgl16.jpg","miaoshu":"电水壶 1.7L 高绷硅玻璃 可视化设计 急速沸腾 MK-GJ1702",               "chanshu":"高硼玻璃壶身，烧水可视；无塑料与水接触，全安全烧水；全景开盖，清洗无忧", "youhui": ["限时特惠"],         "zengpins":"display:none", "zengpin": "新品","price":"￥129.00","yuanprice":"￥159.00","pinglun":"评论225条"}
+
+    ]}
+
+  ]
+}

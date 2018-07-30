@@ -1,0 +1,85 @@
+{
+  "cartsChecked":true,
+  "goods": {
+    "normal": [
+      {
+        "goodChecked": false,
+        "pic": "../../../../static/img/0004.jpg",
+        "title": "花洒 除氯花洒 内置滤芯 SF 1570-C15",
+        "color": "白色",
+        "qal": 1,
+        "off": 50,
+        "price": "299"
+      },
+      {
+        "goodChecked": false,
+        "pic": "../../../../static/img/0001.jpg",
+        "title": "变频节能 美的冰箱228升 三门冷风无霜",
+        "color": "灰色",
+        "qal": 1,
+        "off": 50,
+        "price": "2999"
+      },
+      {
+        "goodChecked": false,
+        "pic": "../../../../static/img/0002.jpg",
+        "title": "大冷动力 535升冰箱 冷风无霜 手机遥控",
+        "color": "波光金",
+        "qal": 1,
+        "off": 50,
+        "price": "2399"
+      },
+      {
+        "goodChecked": false,
+        "pic": "../../../../static/img/0003.jpg",
+        "title": "燃气热水器 12升速热恒温 三档变声 三重防护",
+        "color": "波光金",
+        "qal": 1,
+        "off": 50,
+        "price": "1149"
+      },
+      {
+        "goodChecked": false,
+        "pic": "../../../../static/img/00005.jpg",
+        "title": "变频恒温 燃气热水器 12升金属拉丝面板",
+        "color": "银色",
+        "qal": 1,
+        "off": 50,
+        "price": "200"
+      }
+    ],
+    "Sell": [
+      {
+        "goodChecked": true,
+        "pic": "../../../../static/img/0001.jpg",
+        "title": "花洒 除氯花洒 内置滤芯 SF 1570-C15",
+        "color": "白色",
+        "qal": 1,
+        "off": 50,
+        "price": "8000"
+      },
+      {
+        "goodChecked": true,
+        "pic": "../../../../static/img/0001.jpg",
+        "title": "花洒 除氯花洒 内置滤芯 SF 1570-C15",
+        "color": "白色",
+        "qal": 1,
+        "off": 50,
+        "price": "8000"
+      }
+    ],
+    "offLimit": [
+      {
+        "goodChecked": true,
+        "pic": "../../../../static/img/0001.jpg",
+        "title": "花洒 除氯花洒 内置滤芯 SF 1570-C15",
+        "color": "白色",
+        "qal": 1,
+        "off": 50,
+        "price": "8000"
+      }
+    ]
+  },
+  "totalMoney":0,
+  "totalCount":0
+}

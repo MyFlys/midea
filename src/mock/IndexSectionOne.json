@@ -1,0 +1,34 @@
+[
+    {
+        "title":"空调",
+        "img":"../../static/img/1.6.jpg"
+    },
+    {
+        "title": "冰箱",
+        "img": "../../static/img/1.7.jpg"
+    },
+    {
+        "title": "洗衣机",
+        "img": "../../static/img/1.8.jpg"
+    },
+    {
+        "title": "厨房小电器",
+        "img": "../../static/img/1.9.jpg"
+    },
+    {
+        "title": "厨房大电器",
+        "img": "../../static/img/1.10.jpg"
+    },
+    {
+        "title": "生活家电",
+        "img": "../../static/img/1.11.jpg"
+    },
+    {
+        "title": "热水器/净水机",
+        "img": "../../static/img/1.12.jpg"
+    },
+    {
+        "title": "配件及周边",
+        "img": "../../static/img/1.13.jpg"
+    }
+]

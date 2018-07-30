@@ -1,0 +1,123 @@
+[
+    {
+        "dis":"热卖",
+        "disp": "display:none",
+        "img":"../../static/img/1.17.jpg",
+        "title":"速风蒸汽风干 精致生活大有不同",
+        "info":"洗衣机MD100V71WDX",
+        "price":"￥3099.00",
+        "see":"13万",
+        "eva":"85",
+        "col":"840"
+    },
+    {
+        "dis": "限时优惠",
+        "disp": "",
+        "img": "../../static/img/1.18.jpg",
+        "title": "大一匹挂机 定频冷暖 阿里云智能空调",
+        "info": "家用空调KFR-26GW/WCBD3@",
+        "price": "￥1999.00",
+        "see": "46万",
+        "eva": "1625",
+        "col": "1411"
+    },
+    {
+        "dis": "热卖",
+        "disp": "display:none",
+        "img": "../../static/img/1.19.jpg",
+        "title": "电风扇 家用五叶静音落地扇 八档风速 无线遥控",
+        "info": "电风扇SAB40BR",
+        "price": "￥229.00",
+        "see": "11万",
+        "eva": "555",
+        "col": "1165"
+    },
+    {
+        "dis": "",
+        "disp": "display:none",
+        "img": "../../static/img/1.20.jpg",
+        "title": "洗碗机 免安装 29分钟超快洗",
+        "info": "洗碗机M1-香槟金",
+        "price": "￥2399.00",
+        "see": "2万",
+        "eva": "31",
+        "col": "280"
+    },
+    {
+        "dis": "开门红",
+        "disp": "",
+        "img": "../../static/img/1.21.jpg",
+        "title": "电水壶 60秒即热 6段控温 大小杯设计",
+        "info": "电水壶MK-HE3001",
+        "price": "￥699.00",
+        "see": "3万",
+        "eva": "97",
+        "col": "181"
+    },
+    {
+        "dis":"热卖",
+        "disp": "display:none",
+        "img": "../../static/img/1.22.jpg",
+        "title": "风冷无霜 可以用手机遥控的智能冰箱",
+        "info": "冰箱BCD-535WKZM(E)",
+        "price": "￥3099.00",
+        "see": "25万",
+        "eva": "275",
+        "col": "811"
+    },
+    {
+        "dis": "",
+        "disp": "display:none",
+        "img": "../../static/img/1.23.jpg",
+        "title": "从今天起，轻松拥有无烟厨房",
+        "info": "烟灶套装CXW-200-DJ570R+JZT-Q360B ",
+        "price": "￥3099.00",
+        "see": "16万",
+        "eva": "298",
+        "col": "378"
+    },
+    {
+        "dis": "优惠",
+        "disp": "display:none",
+        "img": "../../static/img/1.24.jpg",
+        "title": "8KG变频滚筒 除菌洗 洗烘一体机",
+        "info": "洗衣机MD80VT715DS5",
+        "price": "￥3099.00",
+        "see": "5万",
+        "eva": "93",
+        "col": "305"
+    },
+    {
+        "dis": "",
+        "disp": "display:none",
+        "img": "../../static/img/1.25.jpg",
+        "title": "美的第1台女性定制吸尘器 P3-Lady",
+        "info": "吸尘器P3-L",
+        "price": "￥1299.00",
+        "see": "2万",
+        "eva": "56",
+        "col": "165"
+    },
+    {
+        "dis": "限时特惠",
+        "disp": "",
+        "img": "../../static/img/1.26.jpg",
+        "title": "下置进水空滤除菌 饮水机YD1316S-X",
+        "info": "饮水机YD1316S-X",
+        "price": "￥1699.00",
+        "see": "11万",
+        "eva": "85",
+        "col": "152"
+    },
+    {
+        "dis": "开门红",
+        "disp": "",
+        "img": "../../static/img/1.27.jpg",
+        "title": "无罐一体净水机 更鲜活 更省水",
+        "info": "净水机MRC1795A-75G",
+        "price": "￥1998.00",
+        "see": "26万",
+        "eva": "252",
+        "col": "811"
+    }
+]
